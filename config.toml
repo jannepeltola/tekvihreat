@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
   description = "TEKin Vihreät rakentavat kestävämpää teknologiaa ja yhteiskuntaa"
-  logo = "images/banner.jpg"
+  logo = "images/vihreat_maapallo.jpg"
   favicon = true
 
 # [Params.social]
