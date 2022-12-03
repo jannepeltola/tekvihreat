@@ -1,0 +1,34 @@
+title : "Saavutuksemme"
+content: |
+  Olemme saaneet kuluvalla valtuustokaudella aikaan paljon. Alla voit lukea keskeisistä saavutuksistamme.
+style: "style1 medium onscroll-fade-in"
+items:
+  - name : "Palkat ja laadullinen kehittäminen"
+    content : "Nostimme valtuustokauden ensimmäisessä kokouksessa esiin kysymyksen palkkojen ja
+    laadullisen kehittämisen suhteesta jättämällä asiasta [valtuustoaloitteen](/aloitteet/tekv-2020-03-laadulliset)."
+    style : "style2 major fa-money-bill"
+
+  - name : "Läpinäkyvyys TEKin vallan käytössä"
+    content : "Herätimme valtuuston ensimmäisessä kokouksessa myös keskustelua TEKin vallankäytöstä Akavassa ja muualla
+    [valtuustoaloitteella](/aloitteet/tekv-2020-03-lapinakyvyys)."
+    style : "solid style2 major fa-lock-open"
+
+  - name : "Perhevapaiden tasainen jakautuminen"
+    content : "Teimme keväällä 2021 yhdessä TEKin Nuorten kanssa [valtuustoaloitteen](/aloitteet/tekv-2021-01-perhevapaat) perhevapaauudistuksen vaikutuksesta TES-työhön."
+    style : "solid style2 major fa-house-leave"
+
+  - name : "Eläkkeiden sosiaalinen oikeudenmukaisuus"
+    content : "Esitimme syksyllä 2021 TEKin hallitukselle [kirjallisen kysymyksen](/aloitteet/tekv-2021-02-elakkeet) eläkejärjestelmän sosiaalisesta oikeudenmukaisuudesta."
+    style : "solid style2 major fa-child"
+
+  - name : "Valtuuston ajankäyttö"
+    content : "Esitimme syksyllä 2021 huolemme valtuuston toimintatapojen tarkoituksenmukaisuudesta jättämällä asiasta [valtuustoaloitteen](/aloitteet/tekv-2021-02-ajankaytto)."
+    style : "solid style2 major fa-business-time"
+    
+  - name : "Ulkomaalaisten työllistyminen"
+    content : "[Kysyimme](/aloitteet/tekv-2022-01-ulkomaalaiset) keväällä 2022 TEKin hallitukselta, miten TEK on ottanut huomioon ja edistänyt ulkomaalaistaustaisten työllistymistä."
+    style : "style2 major fa-person-sign"
+
+  - name : "Valtuuston toimintatavat"
+    content : "Laadimme pitkien keskusteluiden jälkeen [yhteisen kompromissilinjauksen](/aloitteet/tekv-2022-02-valtuusto) valtuuston toimintatavoista syksyllä 2022."
+    style : "style2 major fa-handshake"

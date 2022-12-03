@@ -1,0 +1,15 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "TEKin Vihreät"
+subtitle: |
+  Vihreiden valtuustoryhmä Tekniikan akateemisissa.
+content : |
+  Olemme Vihreät valtuuston jäsenet Tekniikan akateemisissa. Meille on tärkeää tuoda liittomme päätöksentekoon vihreitä arvoja,
+  eli inhimillisyyttä, tasa-arvoa, yhdenvertaisuutta ja pitkän aikavälin ekologis-sosiaalista ajattelua.
+
+  <strong>Etsimme joukkoomme uusia jäseniä ehdolle TEKin valtuustovaaleihin, jotka pidetään 20.3. - 3.4.2023.</strong>
+button:
+  label : "Asetu ehdolle"
+  link : "#ehdolle"
+image : "img/ak_janne.jpg"
+

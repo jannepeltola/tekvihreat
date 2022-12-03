@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Asetu ehdolle"
+content: |
+  Ehdolle voi asettua Tekniikan Akateemiset ry:n vuosijäsen, joka on maksanut jäsenmaksun viimeistään joulukuussa 2022.
+  Vihreiden ehdokaslistan kokoaa vaaliasiamies Janne Peltola (jannepeltola@iki.fi), joka antaa myös lisätietoja ehdokkuudesta.
+  Vaalien järjestelyistä voi lukea lisää <a href="https://www.tek.fi/fi/tietoa-tekista/paatoksenteko/tekin-vaalit/">TEKin
+  vaalisivuilta</a>.
+button: 
+  label: "Ehdolleasettumislomake"
+  link: "https://forms.gle/WyUi8zkMtFgQwohq6"
+image: "img/riku_ym.jpg"
