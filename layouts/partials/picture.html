@@ -1,0 +1,14 @@
+<article>
+    <span class="image">
+        <img src="{{ .thumb }}" alt="" />
+    </a>
+    <div class="caption">
+        <p>{{ .content }}</p>
+    </div>
+    <div class="nimi">
+        <h3 class="nimi">{{ .title }}</h3>
+    </div>
+    {{ if .ehdolla }}
+    <div class="ribbon">Ehdolla!</p>
+    {{ end }}
+</article>

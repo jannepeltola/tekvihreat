@@ -23,10 +23,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   logo = "images/vihreat_maapallo.jpg"
   favicon = true
 
-# [Params.social]
+[Params.social]
 #   github = "https://github.com/caressofsteel/"
 #   twitter = "https://twitter.com/caressofsteel_"
-#   email = "caressofsteel@protonmail.com"
-#   instagram = "https://instagram.com"
-#   linkedin = "https://linkedin.com"
+  facebook = "https://www.facebook.com/TEKvihreat"
+  instagram = "https://www.instagram.com/tekvihreat/"
 #   telegram = "https://telegram.org"
