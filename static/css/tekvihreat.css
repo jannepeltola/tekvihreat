@@ -53,4 +53,13 @@ div.nimi {
 div.nimi h3.nimi {
     opacity: 1;
     color: #333;
+    margin-bottom: 0;
+}
+
+div.nimi p {
+    opacity: 1;
+    color: #333;
+    font-size: 0.4rem;
+    margin: 0;
+    padding: 0;
 }
