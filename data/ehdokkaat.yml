@@ -47,6 +47,11 @@ pictures:
     image: "img/galleria/fulls/ramsland_satu.jpg"
     thumb: "img/galleria/thumbs/ramsland_satu.jpg"
     ehdolla: true
+  - title: "Peppi Seppälä"
+    content: "Ehdokas"
+    image: "img/galleria/fulls/seppala_peppi.jpg"
+    thumb: "img/galleria/thumbs/seppala_peppi.jpg"
+    ehdolla: true
   - title: "Jaakko Stenhäll"
     content: "Ehdokas"
     image: "img/galleria/fulls/stenhall_jaakko.jpg"
