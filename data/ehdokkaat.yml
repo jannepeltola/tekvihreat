@@ -12,6 +12,11 @@ pictures:
     image: "img/galleria/fulls/viilo_mikko.jpg"
     thumb: "img/galleria/thumbs/viilo_mikko.jpg"
     ehdolla: true
+  - title: "Paavo Heiskanen"
+    content: "Perheenisä, DI, tekniikan maisteri ja avaruustekniikan tohtorikoulutettava. Sosiaaliliberaali Espoosta."
+    image: "img/galleria/fulls/heiskanen_paavo.jpg"
+    thumb: "img/galleria/thumbs/heiskanen_paavo.jpg"
+    ehdolla: true
   - title: "Aino-Kaisa Manninen"
     content: "Valtuuston varajäsen"
     image: "img/galleria/fulls/manninen_ak.jpg"
@@ -26,6 +31,11 @@ pictures:
     content: "Valtuuston varajäsen"
     image: "img/galleria/fulls/makela_jakke.jpg"
     thumb: "img/galleria/thumbs/makela_jakke.jpg"
+    ehdolla: true
+  - title: "Henna Partanen"
+    content: "Arkkitehti, Espoon kaupunginhallituksen 1. vpj., ehdokas"
+    image: "img/galleria/fulls/partanen_henna.jpg"
+    thumb: "img/galleria/thumbs/partanen_henna.jpg"
     ehdolla: true
   - title: "Janne Peltola"
     content: "Valtuuston varajäsen, teknologiavaliokunnan jäsen, vaalilautakunnan jäsen, vaaliasiamies."
