@@ -1,7 +1,12 @@
 <article>
     <span class="image">
-        <img src="{{ .thumb }}" alt="" />
-    </a>
+        {{ if .link }}
+            <a href="{{ .link }}">
+        {{ else }}
+            <a href="#ehdokkaat">
+        {{ end }}
+            <img src="{{ .thumb }}" alt="" />
+        </a>
     <div class="caption">
         <p>{{ .content }}</p>
     </div>
