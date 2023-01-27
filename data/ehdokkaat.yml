@@ -15,6 +15,22 @@ pictures:
     thumb: "img/galleria/thumbs/viilo_mikko.jpg"
     ehdolla: true
     link: "https://www.mikkoviilo.fi/"
+  - title: "Antti Auvinen"
+    content: "Ehdokas"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
+  - title: "Atte Harjanne"
+    content: "Valtuuston jäsen, kansanedustaja"
+    image: "img/galleria/fulls/harjanne_atte.jpg"
+    thumb: "img/galleria/thumbs/harjanne_atte.jpg"
+    link: "https://www.atteharjanne.fi"
+    ehdolla: true
+  - title: "Elina Heikkala"
+    content: "Ehdokas"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
   - title: "Paavo Heiskanen"
     content: "Perheenisä, DI, tekniikan maisteri ja avaruustekniikan tohtorikoulutettava. Sosiaaliliberaali Espoosta."
     image: "img/galleria/fulls/heiskanen_paavo.jpg"
@@ -28,6 +44,11 @@ pictures:
     ehdolla: true
   - title: "Hanna-Leena Islander"
     content: "Uravaliokunnan puheenjohtaja"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
+  - title: "Hannu Koskela"
+    content: "Ehdokas"
     image: "img/galleria/fulls/unknown.jpg"
     thumb: "img/galleria/thumbs/unknown.jpg"
     ehdolla: true
@@ -55,7 +76,7 @@ pictures:
     ehdolla: true
     link: "https://ainokaisamanninen.fi"
   - title: "Tiina Mikkonen"
-    content: "Hallituksen jäsen"
+    content: "Hallituksen jäsen, UX Designer"
     image: "img/galleria/fulls/mikkonen_tiina.jpg"
     thumb: "img/galleria/thumbs/mikkonen_tiina.jpg"
     ehdolla: true
@@ -66,6 +87,11 @@ pictures:
     thumb: "img/galleria/thumbs/makela_jakke.jpg"
     ehdolla: true
     link: "https://www.zygomatica.com/"
+  - title: "Katja Nisumaa-Saarela"
+    content: "Valtuuston varajäsen"
+    image: "img/galleria/fulls/nisumaa-saarela_katja.jpg"
+    thumb: "img/galleria/thumbs/nisumaa-saarela_katja.jpg"
+    ehdolla: true
   - title: "Henna Partanen"
     content: "Arkkitehti, Espoon kaupunginhallituksen 1. vpj., ehdokas"
     image: "img/galleria/fulls/partanen_henna.jpg"
@@ -122,10 +148,6 @@ pictures:
     content: "Valtuuston jäsen"
     image: "img/galleria/fulls/haavisto_minna.jpg"
     thumb: "img/galleria/thumbs/haavisto_minna.jpg"
-  - title: "Atte Harjanne"
-    content: "Valtuuston jäsen"
-    image: "img/galleria/fulls/harjanne_atte.jpg"
-    thumb: "img/galleria/thumbs/harjanne_atte.jpg"
   - title: "Saara Hyrkkö"
     content: "Valtuuston jäsen"
     image: "img/galleria/fulls/hyrkko_saara.jpg"
@@ -134,10 +156,6 @@ pictures:
     content: "Valtuuston varajäsen, yksityisen sektorin valiokunnan jäsen"
     image: "img/galleria/fulls/merikoski_riku.jpg"
     thumb: "img/galleria/thumbs/merikoski_riku.jpg"
-  - title: "Katja Nisumaa-Saarela"
-    content: "Valtuuston varajäsen"
-    image: "img/galleria/fulls/nisumaa-saarela_katja.jpg"
-    thumb: "img/galleria/thumbs/nisumaa-saarela_katja.jpg"
   - title: "Hannele Piitulainen"
     content: "Valtuuston varajäsen"
     image: "img/galleria/fulls/unknown.jpg"
