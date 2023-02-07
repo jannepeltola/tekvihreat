@@ -42,8 +42,28 @@ pictures:
     image: "img/galleria/fulls/himanen_paula.jpg"
     thumb: "img/galleria/thumbs/himanen_paula.jpg"
     ehdolla: true
+  - title: "Hanna Holopainen"
+    content: "Ehdokas"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
+  - title: "Saara Hyrkkö"
+    content: "Valtuuston jäsen"
+    image: "img/galleria/fulls/hyrkko_saara.jpg"
+    thumb: "img/galleria/thumbs/hyrkko_saara.jpg"
+    ehdolla: true
   - title: "Hanna-Leena Islander"
     content: "Uravaliokunnan puheenjohtaja"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
+  - title: "Anniina Kontiokorpi"
+    content: "Ehdokas"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
+  - title: "Päivi Korpivaara"
+    content: "Ehdokas"
     image: "img/galleria/fulls/unknown.jpg"
     thumb: "img/galleria/thumbs/unknown.jpg"
     ehdolla: true
@@ -116,6 +136,16 @@ pictures:
     thumb: "img/galleria/thumbs/ramsland_satu.jpg"
     ehdolla: true
     link: "https://www.saturamsland.fi/"
+  - title: "Sirpa Repo"
+    content: "Ehdokas"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
+  - title: "Petteri Räty"
+    content: "Ehdokas"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
   - title: "Peppi Seppälä"
     content: "Ehdokas"
     image: "img/galleria/fulls/seppala_peppi.jpg"
@@ -138,20 +168,21 @@ pictures:
     image: "img/galleria/fulls/unknown.jpg"
     thumb: "img/galleria/thumbs/unknown.jpg"
     ehdolla: true
+  - title: "Juhani Tenhunen"
+    content: "Yrittäjyysvaliokunnan jäsen"
+    image: "img/galleria/fulls/unknown.jpg"
+    thumb: "img/galleria/thumbs/unknown.jpg"
+    ehdolla: true
   - title: "Ville Tulkki"
     content: "Tekniikan tohtori"
     image: "img/galleria/fulls/tulkki_ville.jpg"
     thumb: "img/galleria/thumbs/tulkki_ville.jpg"
     ehdolla: true
-    link: "https://villetulkki.com/"
+    link: "https://www.linkedin.com/in/ville-tulkki-7951b55"
   - title: "Minna Haavisto"
     content: "Valtuuston jäsen"
     image: "img/galleria/fulls/haavisto_minna.jpg"
     thumb: "img/galleria/thumbs/haavisto_minna.jpg"
-  - title: "Saara Hyrkkö"
-    content: "Valtuuston jäsen"
-    image: "img/galleria/fulls/hyrkko_saara.jpg"
-    thumb: "img/galleria/thumbs/hyrkko_saara.jpg"
   - title: "Riku Merikoski"
     content: "Valtuuston varajäsen, yksityisen sektorin valiokunnan jäsen"
     image: "img/galleria/fulls/merikoski_riku.jpg"
@@ -166,10 +197,6 @@ pictures:
     thumb: "img/galleria/thumbs/pitko_jenni.jpg"
   - title: "Kimmo Surakka"
     content: "Jäsen- ja järjestövaliokunnan jäsen"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
-  - title: "Juhani Tenhunen"
-    content: "Yrittäjyysvaliokunnan jäsen"
     image: "img/galleria/fulls/unknown.jpg"
     thumb: "img/galleria/thumbs/unknown.jpg"
   - title: "Aino Tuominen"
