@@ -68,10 +68,11 @@ pictures:
     thumb: "img/galleria/thumbs/unknown.jpg"
     ehdolla: true
   - title: "Hannu Koskela"
-    content: "Ehdokas"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
+    content: "Sr. UX Researcher"
+    image: "img/galleria/fulls/koskela_hannu.jpg"
+    thumb: "img/galleria/thumbs/koskela_hannu.jpg"
     ehdolla: true
+    link: "http://linkedin.com/in/hannu-koskela-0395752"
   - title: "Hannele Lampela"
     content: "Valtuuston varajäsen, hallituksen varajäsen, korkeakouluvaliokunnan jäsen"
     image: "img/galleria/fulls/lampela_hannele.jpg"
@@ -137,10 +138,11 @@ pictures:
     ehdolla: true
     link: "https://www.saturamsland.fi/"
   - title: "Sirpa Repo"
-    content: "Ehdokas"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
+    content: "Tuotepäällikkö"
+    image: "img/galleria/fulls/repo_sirpa.jpg"
+    thumb: "img/galleria/thumbs/repo_sirpa.jpg"
     ehdolla: true
+    link: "https://www.sirparepo.fi"
   - title: "Petteri Räty"
     content: "Ehdokas"
     image: "img/galleria/fulls/unknown.jpg"
