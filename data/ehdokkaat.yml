@@ -145,8 +145,8 @@ pictures:
     link: "https://www.sirparepo.fi"
   - title: "Petteri Räty"
     content: "Ehdokas"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
+    image: "img/galleria/fulls/raty_petteri.jpg"
+    thumb: "img/galleria/thumbs/raty_petteri.jpg"
     ehdolla: true
   - title: "Peppi Seppälä"
     content: "Ehdokas"
