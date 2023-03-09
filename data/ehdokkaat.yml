@@ -9,6 +9,7 @@ pictures:
     image: "img/galleria/fulls/kilpala_minna.jpg"
     thumb: "img/galleria/thumbs/kilpala_minna.jpg"
     ehdolla: true
+    link: "https://www.linkedin.com/in/minnakilpala/"
   - title: "Mikko Viilo"
     content: "Ryhmän varapuheenjohtaja, hallituksen jäsen, valtuuston jäsen"
     image: "img/galleria/fulls/viilo_mikko.jpg"
@@ -54,8 +55,8 @@ pictures:
     ehdolla: true
   - title: "Hanna-Leena Islander"
     content: "Uravaliokunnan puheenjohtaja"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
+    image: "img/galleria/fulls/islander_hannaleena.jpg"
+    thumb: "img/galleria/thumbs/islander_hannaleena.jpg"
     ehdolla: true
   - title: "Anniina Kontiokorpi"
     content: "Ehdokas"
@@ -88,7 +89,7 @@ pictures:
     content: "Yksityisen sektorin valiokunnan jäsen, IT Project Manager"
     image: "img/galleria/fulls/lehtonen_jari.jpg"
     thumb: "img/galleria/thumbs/lehtonen_jari.jpg"
-    link: "https://www.linkedin.com/in/jari-lehtonen-phd-a3b90b3"
+    link: "https://www.linkedin.com/in/jari-lehtonen-a3b90b3"
     ehdolla: true
   - title: "Aino-Kaisa Manninen"
     content: "Valtuuston varajäsen, projektitutkija, DI, TtM"
@@ -155,9 +156,9 @@ pictures:
     ehdolla: true
     link: "https://peppiseppala.fi/"
   - title: "Henrikki Soininen"
-    content: "Ehdokas"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
+    content: "Projektipäällikkö"
+    image: "img/galleria/fulls/soininen_henrikki.jpg"
+    thumb: "img/galleria/thumbs/soininen_henrikki.jpg"
     ehdolla: true
   - title: "Jaakko Stenhäll"
     content: "Ehdokas"
