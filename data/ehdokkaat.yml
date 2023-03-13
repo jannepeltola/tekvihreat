@@ -45,8 +45,8 @@ pictures:
     ehdolla: true
   - title: "Hanna Holopainen"
     content: "Ehdokas"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
+    image: "img/galleria/fulls/holopainen_hanna.jpg"
+    thumb: "img/galleria/thumbs/holopainen_hanna.jpg"
     ehdolla: true
   - title: "Saara Hyrkkö"
     content: "Valtuuston jäsen"
@@ -60,8 +60,8 @@ pictures:
     ehdolla: true
   - title: "Anniina Kontiokorpi"
     content: "Ehdokas"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
+    image: "img/galleria/fulls/kontiokorpi_anniina.jpg"
+    thumb: "img/galleria/thumbs/kontiokorpi_anniina.jpg"
     ehdolla: true
   - title: "Päivi Korpivaara"
     content: "Ehdokas"
