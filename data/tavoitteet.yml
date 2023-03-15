@@ -1,0 +1,33 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "tavoitteet"
+title : "Tavoitteemme"
+content: |
+  <h3>Tekniikan tekijät suojelevat elämää</h3>
+
+  <p>Haluamme rakentaa kestävää yhteiskuntaa ja työelämää. Tulevalla valtuustokaudella on kaksi tärkeää tavoitetta: rakentaa työelämä, jossa jokainen pysyy mukana ja huolehtia, että Suomi sitoutuu vihreään siirtymään.</p>
+  
+  <h4>Aktiiviset jäsenpalvelut ja edunvalvonta</h4>
+  
+  <p>Lakipalveluiden tulee olla helposti käytettävissä jo varhaisessa vaiheessa ja tukea jäseniä myös vertaistuella. Luottamushenkilöille ja työsuojeluvaltuutetuille tulee taata riittävät tukiverkostot ja vahva irtisanomissuoja.</p>
+  
+  <p>Henkistä työsuojelua tulee vahvistaa turvaksi uupumiselta, työpaikkakiusaamiselta ja sopimattomalta käytökseltä. Hybridityöhön pitää rakentaa selkeät pelisäännöt.</p>
+  
+  <h4>Yhdenvertainen työelämä</h4>
+  
+  <p>Yhdenvertainen työelämä ei ole valmis. Vain 25 % yrityksistä oli valmiita palkkaamaan työntekijän, jolla ei ole sujuvaa suomen kielen taitoa. Tekniikan opiskelijoista kolmannes on naisia, joiden euro on 95 senttiä. Ikääntyvien työllisyys on huomattavasti alle pohjoismaisten verrokkien.</p>
+  
+  <p>TEKin toiminnan vaikuttavuutta tulee arvioida monipuolisesti eri yhdenvertaisuuden ulottuvuuksilla.</p>
+
+  <p>Perhevapaat on jaettava tasaisesti, monikielisten työyhteisöjen on yleistyttävä, työajan ja -olojen on joustettava tarpeen mukaan esimerkiksi ikääntyvillä ja rekrytoinnin syrjinnästä on päästävä eroon. Palkkojen avoimuutta on edistettävä.</p>
+
+  <p>Ikääntyville tulee taata oikeus jatkokouluttautumiseen, työkyvyttömyyseläkkeiden taakka on jaettava kaikkien työnantajien kesken ja ikääntyvien suojaa irtisanomistilanteissa on vahvistettava.</p>
+  
+  <h4>Vihreä siirtymä</h4>
+  
+  <p>Yli puolet TEKin jäsenistä on tutkitusti maailmanparantajia, jotka tunnistavat vihreän siirtymän tarpeen ja haluavat toteuttaa sitä vastuullisesti. Silti vihreä siirtymä ajaa monien identiteetit murrokseen. Työmarkkinapolitiikan on tuettava jokaista ja TKI-panostusten tulee johtaa aina kestävämpiin ratkaisuihin. Ympäristöystävällisen työn tulee olla kaikkien perusoikeus, ja työntekijöiden valtaa oman työnsä ympäristöjalanjälkeen tulee vahvistaa.</p>
+
+button: 
+  label: "Tutustu ehdokkaisiimme"
+  link: "#ehdokkaat"
+image: "img/riku_ym.jpg"

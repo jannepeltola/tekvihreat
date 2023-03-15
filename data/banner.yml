@@ -11,5 +11,11 @@ content : |
 button:
   label : "Tutustu ehdokkaisiimme"
   link : "#ehdokkaat"
+button2:
+  label : "Tutustu tavoitteisiimme"
+  link : "#tavoitteet"
+button3:
+  label : "Lisätietoa vaaleista"
+  link : "https://www.tek.fi/vaalit"
 image : "img/ak_janne.jpg"
 
