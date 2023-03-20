@@ -17,9 +17,9 @@ pictures:
     ehdolla: true
     link: "https://www.mikkoviilo.fi/"
   - title: "Antti Auvinen"
-    content: "Ehdokas"
-    image: "img/galleria/fulls/unknown.jpg"
-    thumb: "img/galleria/thumbs/unknown.jpg"
+    content: "Ehdokas, vesialan DI"
+    image: "img/galleria/fulls/auvinen_antti.jpg"
+    thumb: "img/galleria/thumbs/auvinen_antti.jpg"
     ehdolla: true
   - title: "Atte Harjanne"
     content: "Valtuuston jäsen, kansanedustaja"
